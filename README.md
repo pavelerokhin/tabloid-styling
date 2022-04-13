@@ -1,2 +1,2 @@
 # tabloid-styling
-SCSS tabloid newspaper style
+SCSS tabloid newspaper/journal style
